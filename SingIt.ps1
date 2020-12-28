@@ -160,4 +160,4 @@ Yeah yeah she's a maneater
 She's watching and waiting ooh
 (Oh here she comes)
 Oh she's a maneater
-'@.Split([System.Environment]::NewLine) | ?{$_ -ne ''} | %{$Speaker.Speak($_)}
+'@.Split([System.Environment]::NewLine) | ?{$_ -ne ''} | %{[Void]$Speaker.Speak($_)}
