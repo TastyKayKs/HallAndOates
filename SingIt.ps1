@@ -153,7 +153,7 @@ Here she comes
 Watch out boy, watch out boy
 (Oh here she comes)
 Oh, watch out, watch out, watch out, watch out
-(Oh here she's comes)
+(Oh here she comes)
 Yeah yeah she's a maneater
 (Oh here she comes)
 (She's a maneater)
